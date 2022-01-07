@@ -1,6 +1,7 @@
 # mergeconflicts1
 
-this 
-is
-an
-egg
+this
+is 
+some 
+text
+
