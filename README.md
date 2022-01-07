@@ -1,6 +1,7 @@
 # mergeconflicts1
 
 this
-is
+is 
 great
 text
+
